@@ -1,5 +1,6 @@
 set nu
 set nowrap
+set guioptions+=b  #打开水平滚动条
 set cuc
 set cul
 set tabstop=4
