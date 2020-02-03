@@ -1,4 +1,5 @@
 set nu
+set nowrap
 set cuc
 set cul
 set tabstop=4
